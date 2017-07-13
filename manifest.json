@@ -1,9 +1,9 @@
 {
-    "name": "kazist/media",
+    "name": "media",
     "title": "Media Manager ",
     "icon": "icons\/media.png",
     "extension": "component",
-    "path": "applications/Media/",
+    "path": "media\/",
     "description": "Media Manager",
     "version": 1
 }
