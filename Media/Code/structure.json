@@ -129,13 +129,13 @@
             "name": "preview",
             "title": "preview",
             "type": "file",
-            "description": "undefined"
+            "description": ""
         },
         {
             "name": "return_url",
             "title": "return_url",
             "type": "file",
-            "description": "undefined"
+            "description": ""
         }
     ],
     "fields": [
